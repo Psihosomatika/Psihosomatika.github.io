@@ -1,1 +1,5 @@
-# Psihosomatika.github.io
+Практическая работа по 10 спринту.
+Валидация полей формы при помощи регулярных выражений через HTML
+
+https://psihosomatika.github.io
+Версия v0.0.2
